@@ -166,6 +166,6 @@
     <nd ref='-85358' />
     <nd ref='-85360' />
     <nd ref='-85195' />
-    <tag k='altitude' v='1' />
+    <tag k='altitude' v='2.5' />
   </way>
 </osm>
